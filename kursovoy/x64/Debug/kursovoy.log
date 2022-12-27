@@ -1,0 +1,9 @@
+﻿  Source.c
+D:\Программирование\kursovoy\kursovoy\Source.c(38,22): warning C4047: функция: "char *" отличается по уровням косвенного обращения от "char *[100]"
+D:\Программирование\kursovoy\kursovoy\Source.c(38,14): warning C4024: readf: различные типы для формального и фактического параметров 1
+D:\Программирование\kursovoy\kursovoy\Source.c(103,62): warning C4047: =: "char" отличается по уровням косвенного обращения от "char *"
+D:\Программирование\kursovoy\kursovoy\Source.c(34,9): warning C4047: инициализация: "Value *" отличается по уровням косвенного обращения от "Value (*)[15]"
+D:\Программирование\kursovoy\kursovoy\Source.c(251,19): warning C4477: "sscanf": в строке форматирования "%c" требуется аргумент типа "char *", но вариативный аргумент "1" имеет тип "char **"
+D:\Программирование\kursovoy\kursovoy\Source.c(251,19): warning C4477: "sscanf": в строке форматирования "%d" требуется аргумент типа "int *", но вариативный аргумент "2" имеет тип "int **"
+D:\Программирование\kursovoy\kursovoy\Source.c(251,19): warning C4477: "sscanf": в строке форматирования "%d" требуется аргумент типа "int *", но вариативный аргумент "3" имеет тип "int **"
+  kursovoy.vcxproj -> D:\Программирование\kursovoy\x64\Debug\kursovoy.exe
